@@ -1,51 +1,77 @@
-# 5Star Hotel PVC Revenue Management Analysis  
-**Subject:** Hospitality Revenue Management 
-**Institution:** Griffith University  
+# Competitive Value Analysis – Hyatt Regency Sydney
+
+## 1. Introduction: Hotel & Target Market
+- **Hotel:** Hyatt Regency Sydney  
+- **Target Segment:** Business travelers  
+- **Attributes & Weighting:** Conference and event facilities (30%) carry the most weight because business travelers prioritize meeting and event spaces.  
+- **Room Rates:** BAR rates for the same basic room type were recorded on the same date for comparability.  
+
+![Hotel Detail](1.png)
 
 ---
 
-## 📌 Project Overview
-This project presents a **Competitive Value Analysis (CVA)** of **Hyatt Regency Sydney**, focused on its position in the Sydney hotel market.  
+## 2. Attribute-Based Rating & Weighting
+- Based on objective data (capacity, reviews, amenities, price), seven criteria were evaluated.  
+- Hyatt performs strongly in **conference/event capacity** but lags in service quality, breakfast, and amenities → creating perception gaps.  
 
-We analyzed Hyatt’s performance compared to competitors such as **Sofitel, QT, Swissotel, Crown Sydney, Paradox, and Pullman**.  
-
-Key dimensions include:
-- Conference/Event Facilities (30%)  
-- Location (20%)  
-- Staff & Service Quality (15%)  
-- Breakfast (10%)  
-- Loyalty Program (10%)  
-- Room Amenities (10%)  
-- Wi-Fi (5%)  
+![Attribute Weighting](2.png)  
+![Scoring Table](3.png)
 
 ---
 
-## 📊 Key Findings
-- **Strength:** Hyatt is Sydney’s largest conference hotel (capacity ~3,000).  
-- **Weakness:** Competitors outperform Hyatt in **service quality, location, and breakfast**, creating perception gaps:contentReference[oaicite:0]{index=0}.  
-- **Positioning:** Hyatt sits at **neutral value–price positioning**. Overpricing or underpricing beyond ±100 AUD correlated with weaker attribute ratings:contentReference[oaicite:1]{index=1}.  
+## 3. Overall Assessment – Price vs. Value Positioning
+- **Quadrant B (High $ + High Value):** Sofitel, Swissotel, QT → Hyatt’s main competitors.  
+- **Quadrant C (Low $ + High Value):** None → Market vacancy → Opportunity for Hyatt.  
+- **Quadrant A & D:** Not a direct threat.  
+
+Conclusion: Hyatt = *Neutral value-price positioning*, but risks being overshadowed by competitors in Quadrant B.  
+
+![Quadrant Chart](4.png)  
+![Rate Deviation Chart](5.png)
 
 ---
 
-## 🚀 Strategic Recommendations
-1. **Website Revamp** – Align visuals with premium brand identity and make rates accessible.  
-2. **Customer Communication** – Highlight conference/event capacity via website, OTAs, and a **business chatbot**.  
-3. **Breakfast Solution** – Introduce a **Grab-and-Go box** to reduce overcrowding:contentReference[oaicite:2]{index=2}.  
-4. **Staff Development** – Train frontline and banquet staff to improve service consistency (Waqanimaravu & Arasanmi, 2020).  
-5. **Brand Partnerships** – Differentiate amenities with lifestyle brands (e.g., Aesop, Nespresso):contentReference[oaicite:3]{index=3}.  
+## 4. Strategic Insights
+### 1. Pricing
+- Amplify strengths rather than compete on lower prices.  
+- Leverage Hyatt’s large-scale **conference/event capacity** to justify premium positioning.  
+
+### 2. Communication
+- Current perception = service & location focus.  
+- Hyatt must strengthen **online messaging (OTA, website, digital marketing)** to emphasize conference/event capabilities.  
+
+### 3. Differentiation
+- Promote Hyatt’s **own events & conferences**.  
+- Occupy Quadrant C by balancing **cost-effectiveness + business expertise**.  
+
+![Strategic Insights](6.png)
 
 ---
 
-## 📂 Repository Contents
-- `/Report` → Final PDF submission and team agreement  
-- `/Data` → Excel sheet with attribute scoring and CVA charting  
-- `README.md` → Project documentation (this file)  
+## 5. Strategic Recommendations
+1. **Customer Online Communication**  
+   - Event/conference differentiation marketing.  
+   - Clear communication of strengths on website/OTA.  
+   ![Website Before & After](7.png)
+
+2. **Breakfast Bottlenecks**  
+   - Introduce *Grab-and-Go Breakfast Box* to ease overcrowding.  
+   ![Breakfast Solution](8.png)
+
+3. **Service Quality**  
+   - Staff development and training in F&B, Front Desk, Banquet.  
+   ![Service Training](8.png)
+
+4. **Amenities Differentiation**  
+   - Collaborate with brands (Aesop, Nespresso) to upgrade in-room experience.  
+   ![Brand Amenities](9.png)
 
 ---
 
-## 📚 References
-- Waqanimaravu, M., & Arasanmi, C. N. (2020). *Employee training and service quality in the hospitality industry*. Journal of Foodservice Business Research, 23(3), 216–227. https://doi.org/10.1080/15378020.2020.1724850  
-- Piriyakul, I., Kunathikornkit, S., & Piriyakul, R. (2024). *Evaluating brand equity in the hospitality industry: Insights from customer journeys and text mining*. *International Journal of Information Management Data Insights*, 4(2), 100245. https://doi.org/10.1016/j.jjimei.2024.100245  
-- Aggregate Intelligence. (2025). *What Asia’s top OTAs offer: A deep dive*. https://ai-stg.aggregateintelligence.com/wp-content/uploads/2025/04/What-Asias-Top-OTAs-Offer-A-Deep-Dive.pdf  
+## 6. Implications for Hyatt
+- Adopt **value-enhancing strategy**, not price cuts.  
+- Clear & consistent **communication of conference/event strengths** is essential to reposition Hyatt competitively.  
 
-*(Full reference list available in the PDF report)*  
+---
+
+📌 *Prepared by: Group Project – Competitive Value Analysis for Hyatt Regency Sydney*
