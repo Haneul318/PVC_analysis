@@ -1,4 +1,4 @@
-# PVC Revenue Management Analysis  
+# 5Star Hotel PVC Revenue Management Analysis  
 **Subject:** Hospitality Revenue Management 
 **Institution:** Griffith University  
 
